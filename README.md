@@ -1,4 +1,4 @@
 # Play
-Make other things (not web front-end)
+Make other things (not web frontend)
 - Web Crawling
 - Arduino
